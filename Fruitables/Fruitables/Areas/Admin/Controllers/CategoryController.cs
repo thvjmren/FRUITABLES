@@ -35,7 +35,7 @@ namespace Fruitables.Areas.Admin.Controllers
                 return View();
             }
 
-            bool result = await _context.Products.AnyAsync(c => c.Name == category.Name);
+            bool result = await _context.Categories.AnyAsync(c => c.Name == category.Name);
 
             if (result)
             {
