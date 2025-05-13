@@ -1,4 +1,4 @@
-﻿@model Slide
+﻿@model CreateSlideVM
 
 <div class="row">
     <div class="col-12 grid-margin stretch-card">
@@ -26,7 +26,7 @@
 
                     <div class="form-group">
                         <label asp-for="Photo">Image</label>
-                        <input asp-for="Photo" class="form-control" placeholder="Image">
+                        <input asp-for="Photo" accept="image/*" type="file" class="form-control" placeholder="Image">
                         <span class="text-danger" asp-validation-for="Photo"></span>
                     </div>
 

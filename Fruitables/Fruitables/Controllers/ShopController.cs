@@ -23,7 +23,7 @@ namespace Fruitables.Controllers
             }
             Product? product = _context.Products
                 .Include(p => p.Images)
-                .Include(p=>p.Category)
+                .Include(p => p.Category)
                 .FirstOrDefault(p => p.Id == id);
 
             if (product is null) return NotFound();
@@ -38,7 +38,6 @@ namespace Fruitables.Controllers
             };
 
             return View(shopVM);
-
         }
     }
 }

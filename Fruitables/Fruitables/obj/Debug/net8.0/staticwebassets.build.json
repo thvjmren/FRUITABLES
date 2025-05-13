@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jF9wafgwvp8gKpLhzLTm9etpUrnkrujSYniXcxSksfQ=",
+  "Hash": "eTKYT0RqZhIUqpmr3k8bbSPp89gDvf0OV6xYUW5pdJc=",
   "Source": "Fruitables",
   "BasePath": "_content/Fruitables",
   "Mode": "Default",
@@ -23201,6 +23201,48 @@
       "OriginalItemSpec": "wwwroot\\img\\2443054.jpg"
     },
     {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/2d8a34ab-f663-4feb-8592-1d9b4b1fb876#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dhwejpsbaj",
+      "Integrity": "8RJk9Nn+mTYl4rc4foQ1WC88lC2qO25wo/B9z8CbGus=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/a17dd357-8851-4f02-9ab6-1bd7e10615c0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dad08h2t7",
+      "Integrity": "Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg"
+    },
+    {
       "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\apple1.jpg",
       "SourceId": "Fruitables",
       "SourceType": "Discovered",
@@ -23262,6 +23304,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\avatar.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\b017cb78-d46e-458b-ad62-fc47a9db69e1.png",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/b017cb78-d46e-458b-ad62-fc47a9db69e1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6xpf02o0up",
+      "Integrity": "BgfEYxEx5oScZHjPrdz2o6vytoJl+ujufOW+7TFMMxQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\b017cb78-d46e-458b-ad62-fc47a9db69e1.png"
     },
     {
       "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\baner-1.png",
@@ -23432,6 +23495,27 @@
       "OriginalItemSpec": "wwwroot\\img\\best-product-6.jpg"
     },
     {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\c5aed683-ef75-466b-81bb-3dd4b19833fe.png",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/c5aed683-ef75-466b-81bb-3dd4b19833fe#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dfwuef2ggr",
+      "Integrity": "qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\c5aed683-ef75-466b-81bb-3dd4b19833fe.png"
+    },
+    {
       "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\cart-page-header-img.jpg",
       "SourceId": "Fruitables",
       "SourceType": "Discovered",
@@ -23451,6 +23535,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\ddb954d8-8c50-45be-98ff-24afab392c12.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/ddb954d8-8c50-45be-98ff-24afab392c12#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dad08h2t7",
+      "Integrity": "Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ddb954d8-8c50-45be-98ff-24afab392c12.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/eb1ec2c7-38a0-4114-a7e5-48cb4613fedb#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dfwuef2ggr",
+      "Integrity": "qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\f14618f7-2530-4a56-b4f4-62dfe9984471.png",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/f14618f7-2530-4a56-b4f4-62dfe9984471#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qc5enhf3ta",
+      "Integrity": "ZuJh06WFHO7mcyAwPVJBiwM5bFdC2TsMWqg0dVG7qfs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f14618f7-2530-4a56-b4f4-62dfe9984471.png"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dad08h2t7",
+      "Integrity": "Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg"
     },
     {
       "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\featur-1.jpg",
@@ -23514,6 +23682,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\featur-3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fecec894-b313-404b-92b4-ecfafd4a325a.jpg",
+      "SourceId": "Fruitables",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\",
+      "BasePath": "_content/Fruitables",
+      "RelativePath": "img/fecec894-b313-404b-92b4-ecfafd4a325a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9dad08h2t7",
+      "Integrity": "Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fecec894-b313-404b-92b4-ecfafd4a325a.jpg"
     },
     {
       "Identity": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fruite-item-1.jpg",
@@ -116650,6 +116839,170 @@
       ]
     },
     {
+      "Route": "img/2d8a34ab-f663-4feb-8592-1d9b4b1fb876.dhwejpsbaj.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RJk9Nn+mTYl4rc4foQ1WC88lC2qO25wo/B9z8CbGus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dhwejpsbaj"
+        },
+        {
+          "Name": "label",
+          "Value": "img/2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RJk9Nn+mTYl4rc4foQ1WC88lC2qO25wo/B9z8CbGus="
+        }
+      ]
+    },
+    {
+      "Route": "img/2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\2d8a34ab-f663-4feb-8592-1d9b4b1fb876.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431019"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RJk9Nn+mTYl4rc4foQ1WC88lC2qO25wo/B9z8CbGus=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 12 May 2025 09:18:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RJk9Nn+mTYl4rc4foQ1WC88lC2qO25wo/B9z8CbGus="
+        }
+      ]
+    },
+    {
+      "Route": "img/a17dd357-8851-4f02-9ab6-1bd7e10615c0.9dad08h2t7.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 11:36:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dad08h2t7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
+      "Route": "img/a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\a17dd357-8851-4f02-9ab6-1bd7e10615c0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 11:36:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
       "Route": "img/apple1.2s96wrnukj.jpg",
       "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\apple1.jpg",
       "Selectors": [],
@@ -116892,6 +117245,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-A8WgD/wRJ1Y9qqyxa21/1znDNv0i33+3zdDfOh1EgMo="
+        }
+      ]
+    },
+    {
+      "Route": "img/b017cb78-d46e-458b-ad62-fc47a9db69e1.6xpf02o0up.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\b017cb78-d46e-458b-ad62-fc47a9db69e1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgfEYxEx5oScZHjPrdz2o6vytoJl+ujufOW+7TFMMxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:29:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6xpf02o0up"
+        },
+        {
+          "Name": "label",
+          "Value": "img/b017cb78-d46e-458b-ad62-fc47a9db69e1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgfEYxEx5oScZHjPrdz2o6vytoJl+ujufOW+7TFMMxQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/b017cb78-d46e-458b-ad62-fc47a9db69e1.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\b017cb78-d46e-458b-ad62-fc47a9db69e1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BgfEYxEx5oScZHjPrdz2o6vytoJl+ujufOW+7TFMMxQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:29:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BgfEYxEx5oScZHjPrdz2o6vytoJl+ujufOW+7TFMMxQ="
         }
       ]
     },
@@ -117552,6 +117987,88 @@
       ]
     },
     {
+      "Route": "img/c5aed683-ef75-466b-81bb-3dd4b19833fe.dfwuef2ggr.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\c5aed683-ef75-466b-81bb-3dd4b19833fe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:32:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwuef2ggr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/c5aed683-ef75-466b-81bb-3dd4b19833fe.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/c5aed683-ef75-466b-81bb-3dd4b19833fe.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\c5aed683-ef75-466b-81bb-3dd4b19833fe.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 11:32:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ="
+        }
+      ]
+    },
+    {
       "Route": "img/cart-page-header-img.dwixk9v6h0.jpg",
       "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\cart-page-header-img.jpg",
       "Selectors": [],
@@ -117630,6 +118147,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-E1qeWYz+q+jdJcJ2JhC574cVOmZLnhjmG0z1V0Ldhg0="
+        }
+      ]
+    },
+    {
+      "Route": "img/ddb954d8-8c50-45be-98ff-24afab392c12.9dad08h2t7.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\ddb954d8-8c50-45be-98ff-24afab392c12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dad08h2t7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ddb954d8-8c50-45be-98ff-24afab392c12.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
+      "Route": "img/ddb954d8-8c50-45be-98ff-24afab392c12.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\ddb954d8-8c50-45be-98ff-24afab392c12.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:56:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
+      "Route": "img/eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.dfwuef2ggr.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:11:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dfwuef2ggr"
+        },
+        {
+          "Name": "label",
+          "Value": "img/eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\eb1ec2c7-38a0-4114-a7e5-48cb4613fedb.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 12:11:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qYkKyJ7OzosYG15YeA+mUUJvPy2PxkLtZiAPhkZ7kIQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/f14618f7-2530-4a56-b4f4-62dfe9984471.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\f14618f7-2530-4a56-b4f4-62dfe9984471.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuJh06WFHO7mcyAwPVJBiwM5bFdC2TsMWqg0dVG7qfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuJh06WFHO7mcyAwPVJBiwM5bFdC2TsMWqg0dVG7qfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/f14618f7-2530-4a56-b4f4-62dfe9984471.qc5enhf3ta.png",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\f14618f7-2530-4a56-b4f4-62dfe9984471.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107930"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZuJh06WFHO7mcyAwPVJBiwM5bFdC2TsMWqg0dVG7qfs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:09:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qc5enhf3ta"
+        },
+        {
+          "Name": "label",
+          "Value": "img/f14618f7-2530-4a56-b4f4-62dfe9984471.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZuJh06WFHO7mcyAwPVJBiwM5bFdC2TsMWqg0dVG7qfs="
+        }
+      ]
+    },
+    {
+      "Route": "img/fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.9dad08h2t7.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:54:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dad08h2t7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
+      "Route": "img/fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fc5d3966-6e6d-4359-9d6d-66d5f7ddd8ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:54:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
         }
       ]
     },
@@ -117876,6 +118721,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-F0EVTm8zEwCxuybL45/HHJ8A7IlOd+goEM9i8cmiKu0="
+        }
+      ]
+    },
+    {
+      "Route": "img/fecec894-b313-404b-92b4-ecfafd4a325a.9dad08h2t7.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fecec894-b313-404b-92b4-ecfafd4a325a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:52:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9dad08h2t7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/fecec894-b313-404b-92b4-ecfafd4a325a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
+        }
+      ]
+    },
+    {
+      "Route": "img/fecec894-b313-404b-92b4-ecfafd4a325a.jpg",
+      "AssetFile": "C:\\Users\\I novbe\\Desktop\\New folder\\Fruitables\\Fruitables\\wwwroot\\img\\fecec894-b313-404b-92b4-ecfafd4a325a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "988561"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 08 May 2025 12:52:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q9r7IadmZSb7V+jbzyX7eNBFxueejHD9bpO6iRKmQCE="
         }
       ]
     },

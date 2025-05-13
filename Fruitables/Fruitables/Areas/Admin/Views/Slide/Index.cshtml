@@ -1,4 +1,4 @@
-﻿@model List<Slide>
+﻿@model List<GetSlideVM>
 @{
     int count = 0;
 }
@@ -8,7 +8,6 @@
         <div class="card-body">
             <h4 class="card-title">Slides</h4>
             <a class="btn btn-success" asp-controller="Slide" asp-action="Create"> Create </a>
-            </p>
             <div class="table-responsive pt-3">
                 <table class="table table-bordered">
                     <thead>
@@ -34,7 +33,7 @@
                         </tr>
                     </thead>
                     <tbody>
-                        @foreach (Slide slide in Model)
+                        @foreach (GetSlideVM slide in Model)
                         {
                             <tr class="table-info">
                                 <td>
@@ -50,7 +49,7 @@
                                     @slide.Order
                                 </td>
                                 <td>
-                                    @slide.CreatedTime.ToString("d MMMM yyy HH:mm")
+                                    @slide.CreatedAT.ToString("d MMMM yyy HH:mm")
                                 </td>
                                 <td>
                                     <a asp-action="update" asp-route-id="@slide.Id" class="btn btn-info"> <i class="mdi mdi-pencil-box"></i></a>
